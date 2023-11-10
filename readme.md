@@ -390,7 +390,7 @@ Click on the `Proxy` tab:
 Next, We will go to Firefox and enable the `Burp Proxy` by clicking on the `FoxyProxy` button in Firefox, and then choosing Burp
 
 Now, all we will do is attempt a login with any username/password 'e.g. `admin:admin`', and go back to BurpSuite, to find the login request captured:
-![img](./bruteforcing_burp_request.jpg)
+![img](./img/bruteforcing_burp_request.jpg)
 
 What we need from the above-captured string is the very last line:
 
